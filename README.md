@@ -7,4 +7,6 @@ Aplicação simples que possibilita a busca de livros pela categoria através do
 # 🔧 Inicialização
 Execute o comando ´npm start` na pasta do projeto.
 
-Fique à vontade para conferir o resultado neste repositório e para entrar em contato.
+
+
+🚀Fique à vontade para conferir o resultado neste repositório e para entrar em contato.🚀
