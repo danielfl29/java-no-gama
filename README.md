@@ -5,7 +5,7 @@ Projeto de um Buscador de Livros desenvolvido durante o Treinamento Hiring Coder
 Aplicação simples que possibilita a busca de livros pela categoria através do console e mostra todos os livros cadastrados, ordenados de forma crescente por quantidade de páginas.
 
 # 🔧 Inicialização
-Execute o comando "npm start" na pasta do projeto.
+Execute o comando 'npm start' na pasta do projeto.
 
 
 
